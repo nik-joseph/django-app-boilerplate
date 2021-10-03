@@ -1,4 +1,4 @@
-# Simply-Menu
+# Django Project
 Ensure you have Python 3.9 and Docker installed.
 
 ## Setup virtual environment
